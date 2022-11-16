@@ -1,0 +1,6 @@
+{
+    "item.tutorialmod.dragon_crystal": "Dragon crystal",
+    "item.tutorialmod.dragon_crystal.tooltip": "A crystal that can be used to create autofixing elytras",
+
+    "itemGroup.tutorialmod.dragon_crystal": "Tutorial additions"
+}
