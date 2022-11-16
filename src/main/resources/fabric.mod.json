@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "tutorianmod_323",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Tutorial Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "Ro_off"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.halfheart.tutorialmod.TutorialMod"
+    ],
+    "client": [
+      "net.halfheart.tutorialmod.TutorialModClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "tutorialmod.mixins.json"
   ],
 
   "depends": {
