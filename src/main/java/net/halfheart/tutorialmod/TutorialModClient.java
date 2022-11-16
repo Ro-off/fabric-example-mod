@@ -7,6 +7,7 @@ public class TutorialModClient implements ClientModInitializer{
     public void onInitializeClient() {
         // This code runs on the client only.
         // You can use this to add things like custom textures, models, and so on.
+        
     }
     
 }
