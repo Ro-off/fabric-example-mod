@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values":[
+        "tutorialmod:dragon_crystal_block",
+        "tutorialmod:dragon_crystal_ore_block",
+        "tutorialmod:dragon_crystal_nether_ore_block"
+    ]
+}

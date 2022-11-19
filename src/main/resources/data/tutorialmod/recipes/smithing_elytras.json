@@ -1,0 +1,13 @@
+ {
+ "type": "minecraft:smithing",
+  "addition": {
+    "item": "tutorialmod:dragon_crystal"
+  },
+  "base": {
+    "item": "minecraft:elytra"
+  },
+  "result": {
+    "item": "minecraft:elytra"
+  }
+}
+

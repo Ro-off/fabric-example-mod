@@ -1,6 +1,10 @@
 {
     "item.tutorialmod.dragon_crystal": "Dragon crystal",
-    "item.tutorialmod.dragon_crystal.tooltip": "A crystal that can be used to create autofixing elytras",
+    "item.tutorialmod.dragon_crystal.tooltip": "A crystal for elytra",
+
+    "block.tutorialmod.dragon_crystal_ore_block":"Dragon crystal ore block",
+    "block.tutorialmod.dragon_crystal_netherack_ore_block":"Dragon crystal nether ore block",
+    "block.tutorialmod.dragon_crystal_block":"Dragon crystal block",
 
     "itemGroup.tutorialmod.dragon_crystal": "Tutorial additions"
 }

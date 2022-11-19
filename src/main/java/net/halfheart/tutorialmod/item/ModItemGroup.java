@@ -8,6 +8,5 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup DRAGON_CRYSTAL = FabricItemGroupBuilder.build(
-        new Identifier(TutorialMod.MOD_ID, "dragon_crystal"),
-        () -> new ItemStack(ModItems.DRAGON_CRYSTAL));
+        new Identifier(TutorialMod.MOD_ID, "dragon_crystal"), () -> new ItemStack(ModItems.DRAGON_CRYSTAL));
 }
